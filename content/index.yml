@@ -1,4 +1,4 @@
-title: Magdalena Garus - Salon Fryzjerski Perfekt.
+title: Salon Fryzur Wojciech Gudzik.
 description: Odkryj swoją nową fryzurę już dziś
 hero:
   title: Odkryj swoją nową fryzurę już dziś
@@ -41,19 +41,19 @@ testimonials:
   title: Co mówią nasi klienci
   description: Jakość naszych usług potwierdzona opiniami zadowolonych klientów.
   items:
-    - quote: Super doradztwo, pomysły, ogrom wiedzy i piękne wykonanie, a do tego miło😀 i głowa staje się piękniejsza, to i zadowolona😁 A mąż po wizycie jeszcze przystojniejszy😍 Dziękuję😊…
+    - quote: Super doradztwo, pomysły, ogrom wiedzy i piękne wykonanie, a do tego miła atmosfera😀 Efekt to piękniejsza głowa i zadowolenie😁 A efekt wizyty to jeszcze przystojniejszy wygląd😍 Dziękuję😊…
       author:
         name: Kaja Koboj
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjW_BocgEGcq8p4la6FfLuZ-n1_3UCY0lCUuOuCWyc3XgR7toR2R=w72-h72-p-rp-mo-br100
           loading: lazy
-    - quote: Nowe miejsce, nowy salon ale jakość i atmosfera bez zmian :⁠-⁠) Świetna obsługa, fantastyczna atmosfera i usługi na najwyższym poziomie, całkowicie polecam :-)
+    - quote: Nowe miejsce, nowy salon, ale jakość i atmosfera bez zmian Świetna obsługa, fantastyczna atmosfera i usługi na najwyższym poziomie, całkowicie polecam
       author:
         name: Aleksander Szweda
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjW0PfcpQghBYlnq0QYLbL3XEmy31ZQbzCiUZampQEc2kKX1CfX4WA=w72-h72-p-rp-mo-ba5-br100
           loading: lazy
-    - quote: Polecam! Profesjonalna obsługa pani wie o czym mówi. Pani wykonuje analizę kolorystyczną.
+    - quote: Polecam! Profesjonalna obsługa, pełna wiedzy i kompetencji. Analiza kolorystyczna na najwyższym poziomie.
       author:
         name: Marcin Kubica
         avatar:
@@ -65,19 +65,19 @@ testimonials:
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjVUpCXnSdLfeTqJAoNjiWZo8dPLuEcLpfpbBKPI7BgZRJbBKYVHTw=w72-h72-p-rp-mo-ba4-br100
           loading: lazy
-    - quote: Bardzo dobra fryzjerka. Perfekcjonistka.
+    - quote: Bardzo dobry fryzjer. Perfekcjonista.
       author:
         name: Ursus Bizon
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjXNysHozhwymtkF8vBeBDMSos3ToI2lgrjb-9ZH8Zh9ALWO3e0k=w72-h72-p-rp-mo-ba4-br100
           loading: lazy
-    - quote: Najmilsza i najbardziej profesjonalna obsługa z jaką mialam doczynienia Uwielbiam i polecam
+    - quote: Najmilsza i najbardziej profesjonalna obsługa z jaką można mieć do czynienia. Uwielbiam i polecam.
       author:
         name: Małgorzata Nowaczyk
         avatar:
           src: https://lh3.googleusercontent.com/a-/ALV-UjWvFTlEKot0donwRAJCXH3v0QIs5zilcqP-42eUebTIZKYvnSH4=w72-h72-p-rp-mo-br100
           loading: lazy
-    - quote: Pasja połączona z wiedzą. Polecam :)
+    - quote: Pasja połączona z wiedzą. Polecam
       author:
         name: Alicja Dudek
         avatar:
@@ -92,7 +92,5 @@ faq:
       defaultOpen: true
     - label: Jakie produkty fryzjerskie używamy?
       content: W naszym salonie korzystamy z wysokiej jakości produktów renomowanych marek. Stawiamy na produkty, które są skuteczne i bezpieczne dla włosów i skóry głowy.
-    - label: Czy oferujemy usługi kosmetyczne?
-      content: Oprócz usług fryzjerskich, oferujemy również zabiegi kosmetyczne, takie jak manicure, pedicure, depilacja czy makijaż. Nasza kosmetyczka jest do Państwa dyspozycji.
     - label: Jak dbamy o higienę w naszym salonie?
       content: Nasz zakład przestrzega rygorystycznych standardów sanitarnych. Wszystkie narzędzia są dokładnie dezynfekowane po każdym kliencie, a stanowiska pracy są utrzymane w czystości.

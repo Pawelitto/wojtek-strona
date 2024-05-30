@@ -35,8 +35,8 @@ nuxtApp.hooks.hookOnce('page:finish', () => {
 <template>
   <UHeader :links="links">
     <template #logo>
-      Magdalena Garus<UBadge
-        label="PERFEKT"
+      Wojciech Gudzik<UBadge
+        label="Salon Fryzur"
         variant="subtle"
         class="mb-0.5 hidden md:block"
       />

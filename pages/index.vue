@@ -3,6 +3,48 @@ const { data: page } = await useAsyncData('index', () =>
   queryContent('/').findOne()
 );
 
+const columns = [
+  {
+    key: 'day',
+    label: 'Dzień',
+  },
+  {
+    key: 'hours',
+    label: 'Godziny',
+  },
+];
+
+const openingHours = [
+  {
+    day: 'Poniedziałek',
+    hours: 'Zamknięte',
+  },
+  {
+    day: 'Wtorek',
+    hours: '12:00 – 20:00',
+  },
+  {
+    day: 'Środa',
+    hours: '09:00 – 18:00',
+  },
+  {
+    day: 'Czwartek',
+    hours: '09:00 - 18:00',
+  },
+  {
+    day: 'Piątek',
+    hours: '11:00 - 20:00',
+  },
+  {
+    day: 'Sobota',
+    hours: '08:00 - 13:00',
+  },
+  {
+    day: 'Niedziela',
+    hours: 'Zamknięte',
+  },
+];
+
 useSeoMeta({
   title: page.value.title,
   ogTitle: page.value.title,
@@ -67,7 +109,7 @@ const items = [
           icon: 'i-heroicons-arrow-right-20-solid',
         }"
         arrows
-        class="rounded-lg overflow-hidden max-h-[85vh] md:max-w-[50vw] flex items-center mx-auto"
+        class="rounded-lg overflow-hidden max-h-[85vh] md:max-w-[60vw] flex items-center mx-auto"
       >
         <NuxtImg
           :src="item"
@@ -120,6 +162,18 @@ const items = [
       class="scroll-mt-[var(--header-height)]"
     >
       <Kontakt />
+    </ULandingSection>
+
+    <ULandingSection
+      icon="i-heroicons-calendar-days-20-solid"
+      title="Sprawdź Nasze Godziny Otwarcia"
+      description="Jesteśmy otwarci przez cały tydzień, aby dostosować się do Twojego harmonogramu. Poniżej znajdziesz nasze godziny otwarcia. Zachęcamy do wcześniejszej rezerwacji wizyt."
+    >
+      <UTable
+        :columns="columns"
+        :rows="openingHours"
+        class="mx-auto lg:w-1/2"
+      />
     </ULandingSection>
 
     <ULandingSection
