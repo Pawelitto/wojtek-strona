@@ -8,11 +8,11 @@ useHead({
 });
 
 useSeoMeta({
-  ogImage: 'https://i.ibb.co/XC9DDZg/banner.jpg',
-  twitterImage: 'https://i.ibb.co/XC9DDZg/banner.jpg',
+  ogImage: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
+  twitterImage: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
   twitterCard: 'summary_large_image',
-  ogUrl: 'https://i.ibb.co/XC9DDZg/banner.jpg',
-  twitterTitle: 'Magdalena Garus - Salon Fryzjerski Perfekt',
+  ogUrl: 'https://i.ibb.co/7z2wHbF/grafika4.jpg',
+  twitterTitle: 'Salon Fryzur - Wojciech Gudzik.',
   twitterDescription: 'Odkryj swoją nową fryzurę już dziś',
 });
 </script>
